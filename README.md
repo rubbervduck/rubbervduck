@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarabjot Singh</h1>
 <h3 align="center">A second year student from Vit Chennai.</h3>
 
-- 🔭 I’m currently working on **text classification problems**
 
 - 🌱 I’m currently learning **Machine Learning and Web Development**
-
-- 🤝 I’m looking for help with **Fine Tunning LLM's**
 
 - 📝 I regularly write articles on [https://medium.com/@sarabjotsingh_46811](https://medium.com/@sarabjotsingh_46811)
 
