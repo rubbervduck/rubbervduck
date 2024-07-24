@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sarabjot Singh</h1>
-<h3 align="center">A second year student from Vit Chennai.</h3>
 
 
 - 🌱 I’m currently learning **Machine Learning and Web Development**
